@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sxolc+JFK/6S42+lf4VCnHkuQmVDpgDVTIl/ZQlohruRpok3gxoydIdJcslJY892FNTFHkLQCl5WiYi2sPA5qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dogukan.gumus\\Desktop\\Studies\\ECommerceApp\\basket-microservice\\Basket.Service\\Basket.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dogukan.gumus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dogukan.gumus\\Desktop\\Studies\\ECommerceApp\\basket-microservice\\Basket.Service\\Basket.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dogukan.gumus\\Desktop\\Studies\\ECommerceApp\\basket-microservice\\Basket.Service\\Basket.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dogukan.gumus\\Desktop\\Studies\\ECommerceApp\\basket-microservice\\Basket.Service\\Basket.Service.csproj",
+        "projectName": "Basket.Service",
+        "projectPath": "C:\\Users\\dogukan.gumus\\Desktop\\Studies\\ECommerceApp\\basket-microservice\\Basket.Service\\Basket.Service.csproj",
+        "packagesPath": "C:\\Users\\dogukan.gumus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dogukan.gumus\\Desktop\\Studies\\ECommerceApp\\basket-microservice\\Basket.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dogukan.gumus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/BackendFeed%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/KenjiFeed%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
